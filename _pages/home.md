@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "footystakepool"
 layout: splash
 permalink: /
 header:
@@ -7,9 +7,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/coffee.jpg
   actions:
-    - label: "Download"
-      url: "#test-link"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+    - label: "ClickMe"
+      url: "www.bbc.co.uk"
+excerpt: "Welcome to the best stakepool in the world!"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row %}
