@@ -10,8 +10,6 @@ header:
     - label: "ClickMe"
       url: "www.bbc.co.uk"
 excerpt: "Welcome to the best stakepool in the world!"
----
-
 feature_row:
   - image_path: /assets/images/coffee.jpg
     alt: "placeholder image 1"
@@ -27,5 +25,6 @@ feature_row:
   - image_path: /assets/images/coffee.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+---
 
 {% include feature_row %}
