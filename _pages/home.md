@@ -10,6 +10,8 @@ header:
     - label: "ClickMe"
       url: "www.bbc.co.uk"
 excerpt: "Welcome to the best stakepool in the world!"
+intro: 
+  - excerpt: 'This is some text above the main feature row that you see below.....'
 feature_row:
   - image_path: /assets/images/coffee.jpg
     alt: "placeholder image 1"
