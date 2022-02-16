@@ -57,10 +57,6 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-header:
-  video:
-    id: PNoAXu-dOZs
-    provider: youtube
 ---
 
 {% include feature_row id="intro" %}
