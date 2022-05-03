@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/cardano-1.jpg
+  overlay_image: /assets/images/cardano-2.jpg
 excerpt: "Independent Cardano stake pool"
 intro: 
   - excerpt: 'This is some text above the main feature row that you see below.....'
